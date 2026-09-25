@@ -1,10 +1,5 @@
-┌──(abigail㉿ciber-sec)-[~]
-└─$ whoami
-> Junior Cybersecurity Analyst | Tech Support | Data Enthusiast
+# ¡Hola, soy Abigail! 👋
+### Aspiring Junior Cybersecurity Analyst | Tech Support | Data Enthusiast
 
-┌──(abigail㉿ciber-sec)-[~]
-└─$ cat skills.txt
-> Redes: TCP/IP, DNS, Wireshark, Nmap
-> Sistemas: Linux (Kali/Ubuntu), Windows Server
-> Seguridad: Análisis de logs, Mitigación OWASP Top 10
-> Herramientas: Python, Bash, Git
+Apasionada por la ciberseguridad, el análisis de vulnerabilidades y la protección de infraestructuras de TI. Actualmente construyendo mis bases en hacking ético, análisis de redes y respuesta a incidentes.
+
