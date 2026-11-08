@@ -1,5 +1,5 @@
 # ¡Hola, soy Abigail! 👋
-### Analista de Ciberseguridad Jr | Soporte Técnico | Análisis de datos 
+### Analista de Ciberseguridad Jr | Soporte Técnico (TI) | Auxiliar analista de datos 
 
-Apasionada por la ciberseguridad, el análisis de vulnerabilidades y la protección de infraestructuras de TI. Actualmente construyendo mis bases en hacking ético, análisis de redes y respuesta a incidentes.
+Apasionada por la ciberseguridad, el análisis de vulnerabilidades y la protección de infraestructuras de TI. Actualmente construyendo bases sólidas en hacking ético, análisis de tráfico de red y respuesta a incidentes. 💻🌐🚨
 
